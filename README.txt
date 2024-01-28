@@ -1,7 +1,5 @@
 # Project Krukrad
 
-![Project Krukrad](krukrad_ascii_art.txt)
-
 ## Overview
 Welcome to Project Krukrad, a text-based RPG game created by Inder Panesar (Age: 18). In this game, you'll embark on an epic journey to defeat fearsome enemies and emerge victorious. The game is designed to work with Java 8 Update 171 or later. If you encounter any issues, make sure you have the correct Java version installed.
 
