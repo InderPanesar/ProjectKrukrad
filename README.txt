@@ -1,80 +1,32 @@
+# Project Krukrad
 
-                                                           /\
-                                                           ||
-                                                           ||
-                                                           ||
-                                                           ||                                               ~-----~
-                                                           ||                                            /===--  ---~~~
-                                                           ||                   ;'                 /==~- --   -    ---~~~
-                                                           ||                (/ ('              /=----         ~~_  --(  '
-                                                           ||             ' / ;'             /=----               \__~
-                                        '                ~==_=~          '('             ~-~~      ~~~~        ~~~--\~'
-                                        \\                (c_\_        .i.             /~--    ~~~--   -~     (     '
-                                         `\               (}| /       / : \           / ~~------~     ~~\   (
-                                         \ '               ||/ \      |===|          /~/             ~~~ \ \(
-                                         ``~\              ~~\  )~.~_ >._.< _~-~     |`_          ~~-~     )\
-                                          '-~                 {  /  ) \___/ (   \   |` ` _       ~~         '
-                                          \ -~\                -<__/  -   -  L~ -;   \\    \ _ _/
-                                          `` ~~=\                  {    :    }\ ,\    ||   _ :(
-                                           \  ~~=\__                \ _/ \_ /  )  } _//   ( `|'
-                                           ``    , ~\--~=\           \     /  / _/ / '    (   '
-                                            \`    } ~ ~~ -~=\   _~_  / \ / \ )^ ( // :_  / '
-                                            |    ,          _~-'   '~~__-_  / - |/     \ (
-                                             \  ,_--_     _/              \_'---', -~ .   \
-                                              )/      /\ / /\   ,~,         \__ _}     \_  "~_
-                                                     { ( _ )'} ~ - \_    ~\  (-:-)       "\   ~ 
-                                                     /'' ''  )~ \~_ ~\   )->  \ :|    _,       " 
-                                                    (\  _/)''} | \~_ ~  /~(   | :)   /          }
-                                                   <``  >;,,/  )= \~__ {{{ '  \ =(  ,   ,       ;
-                                                  {o_o }_/     |v  '~__  _    )-v|  "  :       ,"
-                                                  {/"\_)       {_/'  \~__ ~\_ \\_} '  {        /~\
-                                                  ,/!          '_/    '~__ _-~ \_' :  '      ,"  ~ 
-                                                 (''`                  /,'~___~    | /     ,"  \ ~' 
-                                               '/, )                 (-)  '~____~";     ,"     , }
-                                             /,')                    / \         /  ,~-"       '~'
-                                         (  ''/                     / ( '       /  /          '~'
-                                      ~ ~  ,, /) ,                 (/( \)      ( -)          /~'
-                                    (  ~~ )`  ~}                   '  \)'     _/ /           ~'
-                                   { |) /`,--.(  }'                    '     (  /          /~'
-                                  (` ~ ( c|~~| `}   )                        '/:\         ,'
-                                   ~ )/``) )) '|),                          (/ | \)                 
-                                    (` (-~(( `~`'  )                        ' (/ '
-                                     `~'    )'`')                              '
-                                       ` ``
+![Project Krukrad](krukrad_ascii_art.txt)
 
-                                               (Text Art From: http://ascii.co.uk/art/dragon)
+## Overview
+Welcome to Project Krukrad, a text-based RPG game created by Inder Panesar (Age: 18). In this game, you'll embark on an epic journey to defeat fearsome enemies and emerge victorious. The game is designed to work with Java 8 Update 171 or later. If you encounter any issues, make sure you have the correct Java version installed.
 
+## Controls
+- **Movement:** Use WASD or Arrow Keys
+- **Pause:** Press P or Esc
+- **Heal:** Press I (can be used up to 3 times)
+- **Combat:** Turn-based system inspired by Pokémon
+- **Attacks:** Choose attacks with your mouse cursor
 
-                                          ===========================================================
-                                          = This Game was working as of the Update                  =
-                                          = Java 8 Update 171                                       =
-                                          = Hence if it is not working use this version of java.    =
-                                          = Or a later version of Java                              =
-                                          = Thanks for playing the game.                            =
-                                          = Inder Panesar - (Age: 18)                               =
-                                          ===========================================================
-                                          = You can use WASD or the Arrow Keys to move.             =
-                                          = You can press P or Esc to pause the game.               =
-                                          = This also brings up a pause menu.                       =
-                                          = You can press I to heal within the game (only 3 times)  =
-                                          = The combat is inspired by pokemon so it is turn-based   =
-                                          = You have 2 attacks and a heal                           =
-                                          = Some attacks may do +/- damage on specific enemies      =
-                                          = You can selected them with your mouse cursor.           =
-                                          ===========================================================
-                                          = There is a total of 4 enemies                           =
-                                          = With each of them doing varying damaging.               =
-                                          = You can affect this through choosing the difficulty     =
-                                          = Furthermore, you can change how your player looks       =
-                                          = Through predetermined costumes and renders              =
-                                          = There are a total of 5 costumes                         =
-                                          = With one being unlockable content                       =
-                                          ===========================================================
-                                          = This is meant for personal use only                     =
-                                          = Not meant to be sold                                    =
-					  = The rights for each of images go to corrosponding,      =
-	                                  = artists.                                                =
-                                          ===========================================================
-					  = This is version 1.05 of the game                        =
-                                          = The lastest update was released on 03-05-2018           =           
-                                          ===========================================================
+## Gameplay
+Explore the world and engage in combat with 4 different enemies. Each enemy poses varying levels of damage, and you can adjust the difficulty to your liking. Customize your player's appearance with 5 different costumes, including unlockable content.
+
+## Important Notes
+- This game is for personal use only and should not be sold.
+- All rights for images go to corresponding artists.
+- Version 1.05 was released on 03-05-2018.
+
+## How to Play
+1. Ensure you have Java 8 Update 171 or later installed.
+2. Run the game and use the controls mentioned above.
+3. Explore, battle enemies, and have fun!
+
+## Credits
+- Game Developer: Inder Panesar
+- ASCII Art: [ASCII.co.uk](http://ascii.co.uk/art/krukrad)
+
+Enjoy playing Project Krukrad and may you emerge victorious in your quest!
