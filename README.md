@@ -25,6 +25,5 @@ Explore the world and engage in combat with 4 different enemies. Each enemy pose
 
 ## Credits
 - Game Developer: Inder Panesar
-- ASCII Art: [ASCII.co.uk](http://ascii.co.uk/art/krukrad)
 
 Enjoy playing Project Krukrad and may you emerge victorious in your quest!
